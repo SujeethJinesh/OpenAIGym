@@ -1,0 +1,17 @@
+Random/
+*.npy
+CartPole/cartpole-experiment-1/
+.DS_Store
+.ipynb_checkpoints
+*.pyc
+__pycache__
+*.egg-info
+build/*
+dist/*
+*~
+.cache
+.coverage
+checkpoint
+htmlcov
+mnist
+test*tflearn*
