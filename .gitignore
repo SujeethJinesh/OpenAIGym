@@ -1,3 +1,4 @@
+config/
 Random/
 *.npy
 CartPole/cartpole-experiment-1/
